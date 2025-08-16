@@ -1,0 +1,1497 @@
+[2025-07-09 12:33:27] AI: ABM INTAN, VTS Cirebon memanggil, over.
+[2025-07-09 12:33:27] AI: 
+[2025-07-09 12:33:40] AI: 
+[2025-07-09 12:33:45] Kapten: Cirebon over
+[2025-07-09 12:33:50] AI: Tolong informasikan kept, tujuan kapal mau kemana? Over.
+[2025-07-09 12:33:56] Kapten: tujuan kapal ke Surabaya
+[2025-07-09 12:34:00] AI: Kami catat tujuan ke surabaya, correct?
+[2025-07-09 12:34:05] Kapten: correct cover
+[2025-07-09 12:34:05] AI: Kami catat tujuan ke surabaya, correct?
+[2025-07-09 12:34:18] AI: Mohon diinformasikan waktu keberangkatan dari cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-09 12:34:25] Kapten: waktu keberangkatan nanti malam over
+[2025-07-09 12:34:35] AI: Kami catat waktu keberangkatan dari cirebon pada 2025-07-09 20:00, correct?
+[2025-07-09 12:34:41] Kapten: correct over
+[2025-07-09 12:34:41] AI: Kami catat waktu keberangkatan dari cirebon pada 2025-07-09 20:00, correct?
+[2025-07-09 12:34:48] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-09 12:34:54] Kapten: muatan kami batubara over
+[2025-07-09 12:34:59] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-09 12:35:04] Kapten: correct over
+[2025-07-09 12:35:04] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-09 12:35:10] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-09 12:35:17] Kapten: muatan sebanyak 3000 ton over
+[2025-07-09 12:35:21] AI: Kami catat berat muatan 3000 ton, correct?
+[2025-07-09 12:35:26] Kapten: correct cover
+[2025-07-09 12:35:26] AI: Kami catat berat muatan 3000 ton, correct?
+[2025-07-09 12:35:33] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-09 12:35:40] Kapten: draft depan 5 meter over
+[2025-07-09 12:35:44] AI: Kami catat draft depan 5, correct?
+[2025-07-09 12:35:49] Kapten: correct cover
+[2025-07-09 12:35:49] AI: Kami catat draft depan 5, correct?
+[2025-07-09 12:35:57] AI: Boleh informasikan juga kept, untuk kedalaman draft belakangnya berapa meter? Over.
+[2025-07-09 12:36:02] Kapten: draft belakang
+[2025-07-09 12:36:06] AI: Kami catat draft belakang , correct?
+[2025-07-09 12:36:10] Kapten: salah over
+[2025-07-09 12:36:10] AI: Kami catat draft belakang , correct?
+[2025-07-09 12:36:15] AI: Kalau begitu mohon ulangi untuk draft belakang, kept?
+[2025-07-09 12:36:22] Kapten: draft belakang 4 meter over
+[2025-07-09 12:36:22] AI: Kalau begitu mohon ulangi untuk draft belakang, capt?
+[2025-07-09 12:36:26] AI: Kami catat draft belakang 4, correct?
+[2025-07-09 12:36:31] Kapten: correct over
+[2025-07-09 12:36:31] AI: Kami catat draft belakang 4, correct?
+[2025-07-09 12:36:45] AI: Mohon diinformasikan estimasi waktu tiba di tujuannya, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-09 12:36:52] Kapten: estimasi waktu tiba minggu depan over
+[2025-07-09 12:37:02] AI: Kami catat estimasi tiba pada 2025-07-16 00:00, correct?
+[2025-07-09 12:37:08] Kapten: correct over
+[2025-07-09 12:37:08] AI: Kami catat estimasi tiba pada 2025-07-16 00:00, correct?
+[2025-07-09 12:37:14] AI: Tolong informasikan kepada kami nama lengkap kapten? Over.
+[2025-07-09 12:37:20] Kapten: nama Kapten Rizky were
+[2025-07-09 12:37:24] AI: Kami catat nama kapten rizky were, correct?
+[2025-07-09 12:37:30] Kapten: correct cover
+[2025-07-09 12:37:30] AI: Kami catat nama kapten rizky were, correct?
+[2025-07-09 12:37:36] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-09 12:37:43] Kapten: jumlah kru 7 orang
+[2025-07-09 12:37:47] AI: Kami catat jumlah kru 7, correct?
+[2025-07-09 12:37:52] Kapten: correct Bogor
+[2025-07-09 12:37:52] AI: Kami catat jumlah kru 7, correct?
+[2025-07-09 12:37:56] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-09 12:38:04] Kapten: terjadi kebakaran di deck kapal over
+[2025-07-09 12:38:16] AI: Terima kasih atas laporannya. Tetap tenang dan lakukan pemeriksaan mandiri sesuai prosedur darurat. Prioritaskan keselamatan.
+[2025-07-09 12:38:20] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-09 12:38:25] Kapten: tidak terima kasih
+[2025-07-09 12:38:27] AI: Dengan senang hati!
+[2025-07-09 12:38:37] AI: Baik, terima kasih kept. VTS Cirebon kembali standby channel 16, 12 over and out.
+[2025-07-10 22:11:53] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:11:53] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:11:53] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:11:53] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:12:12] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-10 22:12:12] AI: 
+[2025-07-10 22:12:20] Kapten: BTN Cirebon
+[2025-07-10 22:12:26] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-10 22:12:30] Kapten: dari Surabaya
+[2025-07-10 22:12:34] AI: Kami catat pemberangkatan , correct?
+[2025-07-10 22:12:48] AI: Kami catat pemberangkatan , correct?
+[2025-07-10 22:12:51] Kapten: salah over
+[2025-07-10 22:12:51] AI: Kami catat pemberangkatan , correct?
+[2025-07-10 22:12:55] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-10 22:13:00] Kapten: pemberangkatan dari Surabaya over
+[2025-07-10 22:13:00] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-10 22:13:07] AI: Kami catat pemberangkatan an dari surabaya, correct?
+[2025-07-10 22:16:14] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:16:14] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:16:14] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:16:14] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:16:23] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-10 22:16:23] AI: 
+[2025-07-10 22:16:28] Kapten: vts Cirebon over
+[2025-07-10 22:16:35] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-10 22:16:41] Kapten: keberangkatan kami dari Cirebon over
+[2025-07-10 22:16:46] AI: Kami catat pemberangkatan an kami dari cirebon, correct?
+[2025-07-10 22:16:51] Kapten: salah over
+[2025-07-10 22:16:51] AI: Kami catat pemberangkatan an kami dari cirebon, correct?
+[2025-07-10 22:16:55] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-10 22:17:00] Kapten: kami dari Cirebon
+[2025-07-10 22:17:00] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-10 22:17:04] AI: Kami catat pemberangkatan , correct?
+[2025-07-10 22:17:08] Kapten: salah over
+[2025-07-10 22:17:08] AI: Kami catat pemberangkatan , correct?
+[2025-07-10 22:17:12] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-10 22:17:17] Kapten: keberangkatan kapal dari
+[2025-07-10 22:17:17] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-10 22:17:21] AI: Kami catat pemberangkatan an kapal dari, correct?
+[2025-07-10 22:17:34] AI: Kami catat pemberangkatan an kapal dari, correct?
+[2025-07-10 22:19:33] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:19:33] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:19:33] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:19:33] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:19:42] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-10 22:19:42] AI: 
+[2025-07-10 22:19:47] Kapten: tinju vs Cirebon over
+[2025-07-10 22:19:53] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-10 22:19:56] Kapten: kami berangkat dari
+[2025-07-10 22:20:00] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-10 22:20:04] Kapten: salah
+[2025-07-10 22:20:04] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-10 22:20:08] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-10 22:20:13] Kapten: kami berangkat dari Makassar over
+[2025-07-10 22:20:13] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-10 22:20:18] AI: Kami catat pemberangkatan makassar, correct?
+[2025-07-10 22:20:22] Kapten: forever
+[2025-07-10 22:20:22] AI: Kami catat pemberangkatan makassar, correct?
+[2025-07-10 22:20:27] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-10 22:20:32] Kapten: kami dari Makassar over
+[2025-07-10 22:20:32] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-10 22:20:36] AI: Kami catat pemberangkatan , correct?
+[2025-07-10 22:20:40] Kapten: salah over
+[2025-07-10 22:20:40] AI: Kami catat pemberangkatan , correct?
+[2025-07-10 22:20:44] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-10 22:20:49] Kapten: kami berangkat dari Makassar over
+[2025-07-10 22:20:49] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-10 22:20:54] AI: Kami catat pemberangkatan makassar, correct?
+[2025-07-10 22:20:58] Kapten: correct over
+[2025-07-10 22:20:58] AI: Kami catat pemberangkatan makassar, correct?
+[2025-07-10 22:21:08] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-10 22:21:15] Kapten: maksud kedatangan Untuk bongkar muatan nomor
+[2025-07-10 22:21:19] AI: Kami catat maksud bongkar muatan nomor, correct?
+[2025-07-10 22:29:14] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:29:14] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:29:14] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:29:14] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:30:49] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:30:49] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:30:49] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:30:49] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:31:46] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:31:46] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:31:46] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:31:46] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:31:54] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-10 22:31:54] AI: 
+[2025-07-10 22:31:58] Kapten: VTS Cirebon over
+[2025-07-10 22:32:04] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-10 22:32:08] Kapten: dari Cirebon over
+[2025-07-10 22:32:13] AI: Kami catat pemberangkatan , correct?
+[2025-07-10 22:32:45] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:32:45] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:32:45] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:32:45] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:33:53] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:33:53] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:33:53] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:33:53] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:34:02] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-10 22:34:02] AI: 
+[2025-07-10 22:34:06] Kapten: tinju vts Cirebon over
+[2025-07-10 22:34:12] AI: Tolong informasikan kept, tujuan kapal mau kemana? Over.
+[2025-07-10 22:34:16] Kapten: tujuan kami ke Jakarta over
+[2025-07-10 22:34:20] AI: Kami catat tujuan ke jakarta, correct?
+[2025-07-10 22:34:23] Kapten: make over
+[2025-07-10 22:34:23] AI: Kami catat tujuan ke jakarta, correct?
+[2025-07-10 22:34:29] AI: Kalau begitu mohon ulangi untuk tujuan ke, kept?
+[2025-07-10 22:34:33] Kapten: tujuan ke Jakarta
+[2025-07-10 22:34:33] AI: Kalau begitu mohon ulangi untuk tujuan ke, capt?
+[2025-07-10 22:34:37] AI: Kami catat tujuan ke jakarta, correct?
+[2025-07-10 22:34:41] Kapten: correct over
+[2025-07-10 22:34:41] AI: Kami catat tujuan ke jakarta, correct?
+[2025-07-10 22:34:54] AI: Mohon diinformasikan waktu keberangkatan dari cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-10 22:34:58] Kapten: Jam 9 malam over
+[2025-07-10 22:35:09] AI: Kami catat waktu keberangkatan dari cirebon pada 2025-07-10 21:00, correct?
+[2025-07-10 22:35:13] Kapten: correct over
+[2025-07-10 22:35:13] AI: Kami catat waktu keberangkatan dari cirebon pada 2025-07-10 21:00, correct?
+[2025-07-10 22:38:57] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:38:57] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:38:57] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:38:57] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:39:55] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-10 22:39:55] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-10 22:39:55] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-10 22:39:55] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-10 22:40:04] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-10 22:40:04] AI: 
+[2025-07-10 22:40:08] Kapten: tinju vts Cirebon over
+[2025-07-10 22:40:14] AI: Tolong informasikan kept, tujuan kapal mau kemana? Over.
+[2025-07-10 22:40:17] Kapten: tujuan
+[2025-07-10 22:40:21] AI: Kami catat tujuan ke , correct?
+[2025-07-10 22:40:24] Kapten: salah over
+[2025-07-10 22:40:24] AI: Kami catat tujuan ke , correct?
+[2025-07-10 22:40:29] AI: Kalau begitu mohon ulangi untuk tujuan ke, kept?
+[2025-07-10 22:40:33] Kapten: tujuan ke Jakarta
+[2025-07-10 22:40:33] AI: Kalau begitu mohon ulangi untuk tujuan ke, capt?
+[2025-07-10 22:40:38] AI: Kami catat tujuan ke jakarta, correct?
+[2025-07-10 22:40:41] Kapten: make over
+[2025-07-10 22:40:41] AI: Kami catat tujuan ke jakarta, correct?
+[2025-07-10 22:40:45] AI: Kalau begitu mohon ulangi untuk tujuan ke, kept?
+[2025-07-10 22:40:50] Kapten: tujuan kapal ke Jakarta
+[2025-07-10 22:40:50] AI: Kalau begitu mohon ulangi untuk tujuan ke, capt?
+[2025-07-10 22:40:54] AI: Kami catat tujuan ke jakarta, correct?
+[2025-07-10 22:40:58] Kapten: correct
+[2025-07-10 22:40:58] AI: Kami catat tujuan ke jakarta, correct?
+[2025-07-10 22:41:11] AI: Mohon diinformasikan waktu keberangkatan dari cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-10 22:41:16] Kapten: Jam 9 malam over
+[2025-07-10 22:41:27] AI: Kami catat waktu keberangkatan dari cirebon pada Hari 10, Bulan 07, Tahun 2025 21:00, correct?
+[2025-07-10 22:41:31] Kapten: correct over
+[2025-07-10 22:41:32] AI: Kami catat waktu keberangkatan dari cirebon pada Hari 10, Bulan 07, Tahun 2025 21:00, correct?
+[2025-07-10 22:41:38] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-10 22:41:43] Kapten: jenis muatan batubara over
+[2025-07-10 22:41:48] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 09:10:48] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:10:48] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:10:48] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:10:48] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:11:12] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 09:11:12] AI: 
+[2025-07-11 09:11:20] Kapten: tes tes t
+[2025-07-11 09:13:15] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:13:15] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:13:15] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:13:15] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:13:26] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 09:13:26] AI: 
+[2025-07-11 09:13:32] Kapten: bisa Tes tes tes tes
+[2025-07-11 09:13:38] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 09:13:43] Kapten: kapal berangkat dari Cilegon over
+[2025-07-11 09:13:48] AI: Kami catat pemberangkatan cilegon, correct?
+[2025-07-11 09:13:52] Kapten: correct over
+[2025-07-11 09:13:52] AI: Kami catat pemberangkatan cilegon, correct?
+[2025-07-11 09:14:02] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 09:14:06] Kapten: Untuk bongkar muatan over
+[2025-07-11 09:14:09] AI: Kami catat maksud , correct?
+[2025-07-11 09:14:13] Kapten: salah over
+[2025-07-11 09:14:13] AI: Kami catat maksud , correct?
+[2025-07-11 09:14:17] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 09:14:23] Kapten: maksud kedatangan kami untuk bongkar muatan over
+[2025-07-11 09:14:23] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 09:14:28] AI: Kami catat maksud kami untuk bongkar muatan, correct?
+[2025-07-11 09:14:32] Kapten: salah over
+[2025-07-11 09:14:32] AI: Kami catat maksud kami untuk bongkar muatan, correct?
+[2025-07-11 09:14:36] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 09:14:42] Kapten: maksud kedatangan Untuk bongkar muatan
+[2025-07-11 09:14:42] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 09:14:46] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 09:14:49] Kapten: Forex over
+[2025-07-11 09:14:49] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 09:14:53] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 09:15:00] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 09:15:00] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 09:15:04] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 09:15:08] Kapten: Forex over
+[2025-07-11 09:15:08] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 09:15:13] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 09:15:19] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 09:15:19] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 09:15:23] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 09:15:27] Kapten: correct over
+[2025-07-11 09:15:27] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 09:15:34] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 09:15:41] Kapten: jenis muatan yang kami bawa
+[2025-07-11 09:15:45] AI: Kami catat muatan berupa yang kami bawa, correct?
+[2025-07-11 09:15:49] Kapten: salah over
+[2025-07-11 09:15:49] AI: Kami catat muatan berupa yang kami bawa, correct?
+[2025-07-11 09:15:54] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 09:16:00] Kapten: muatan kami berupa batubara
+[2025-07-11 09:16:00] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 09:16:04] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 09:16:08] Kapten: correct over
+[2025-07-11 09:16:08] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 09:16:14] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-11 09:16:19] Kapten: Kami membawa 3000 ton
+[2025-07-11 09:16:24] AI: Kami catat berat muatan 3000 ton, correct?
+[2025-07-11 09:16:27] Kapten: correct over
+[2025-07-11 09:16:27] AI: Kami catat berat muatan 3000 ton, correct?
+[2025-07-11 09:16:34] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-11 09:16:40] Kapten: draft depan sekitar 6 meter over
+[2025-07-11 09:16:44] AI: Kami catat draft depan 6, correct?
+[2025-07-11 09:16:48] Kapten: forever
+[2025-07-11 09:16:48] AI: Kami catat draft depan 6, correct?
+[2025-07-11 09:16:52] AI: Kalau begitu mohon ulangi untuk draft depan, kept?
+[2025-07-11 09:16:58] Kapten: draft depan sekitar 6 meter over
+[2025-07-11 09:16:58] AI: Kalau begitu mohon ulangi untuk draft depan, capt?
+[2025-07-11 09:17:02] AI: Kami catat draft depan 6, correct?
+[2025-07-11 09:17:06] Kapten: correct over
+[2025-07-11 09:17:06] AI: Kami catat draft depan 6, correct?
+[2025-07-11 09:17:13] AI: Boleh informasikan juga kept, untuk kedalaman draft belakangnya berapa meter? Over.
+[2025-07-11 09:17:22] Kapten: bagian belakang memiliki kedalaman sekitar 7 meter over
+[2025-07-11 09:17:26] AI: Kami catat draft belakang 7, correct?
+[2025-07-11 09:17:30] Kapten: correct over
+[2025-07-11 09:17:30] AI: Kami catat draft belakang 7, correct?
+[2025-07-11 09:17:43] AI: Mohon diinformasikan estimasi waktu tiba di pelabuhan cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 09:17:49] Kapten: 2 jam lagi over
+[2025-07-11 09:18:00] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 11:17, correct?
+[2025-07-11 09:18:04] Kapten: forever
+[2025-07-11 09:18:04] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 11:17, correct?
+[2025-07-11 09:18:20] AI: Mohon diinformasikan estimasi waktu tiba di pelabuhan cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 09:18:26] Kapten: jam 12 siang over
+[2025-07-11 09:18:36] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:00, correct?
+[2025-07-11 09:18:40] Kapten: forever
+[2025-07-11 09:18:40] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:00, correct?
+[2025-07-11 09:18:56] AI: Mohon diinformasikan estimasi waktu tiba di pelabuhan cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 09:19:01] Kapten: jam 12 siang Google
+[2025-07-11 09:19:11] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:00, correct?
+[2025-07-11 09:19:15] Kapten: correct over
+[2025-07-11 09:19:15] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:00, correct?
+[2025-07-11 09:19:21] AI: Tolong informasikan kepada kami nama lengkap kapten? Over.
+[2025-07-11 09:19:26] Kapten: nama lengkap Kapten Rizky over
+[2025-07-11 09:19:30] AI: Kami catat nama kapten rizky, correct?
+[2025-07-11 09:19:34] Kapten: forever
+[2025-07-11 09:19:34] AI: Kami catat nama kapten rizky, correct?
+[2025-07-11 09:19:39] AI: Kalau begitu mohon ulangi untuk nama kapten, kept?
+[2025-07-11 09:19:44] Kapten: Kapten saya sendiri Rizky over
+[2025-07-11 09:19:44] AI: Kalau begitu mohon ulangi untuk nama kapten, capt?
+[2025-07-11 09:19:49] AI: Kami catat nama kapten kapten saya sendiri rizky, correct?
+[2025-07-11 09:19:57] Kapten: salah over
+[2025-07-11 09:19:57] AI: Kami catat nama kapten kapten saya sendiri rizky, correct?
+[2025-07-11 09:20:01] AI: Kalau begitu mohon ulangi untuk nama kapten, kept?
+[2025-07-11 09:20:06] Kapten: Nama saya adalah Rizki
+[2025-07-11 09:20:06] AI: Kalau begitu mohon ulangi untuk nama kapten, capt?
+[2025-07-11 09:20:11] AI: Kami catat nama kapten nama saya adalah rizki, correct?
+[2025-07-11 09:20:15] Kapten: salah over
+[2025-07-11 09:20:15] AI: Kami catat nama kapten nama saya adalah rizki, correct?
+[2025-07-11 09:20:20] AI: Kalau begitu mohon ulangi untuk nama kapten, kept?
+[2025-07-11 09:20:29] Kapten: nama Kapten Rizky over
+[2025-07-11 09:20:29] AI: Kalau begitu mohon ulangi untuk nama kapten, capt?
+[2025-07-11 09:20:33] AI: Kami catat nama kapten nama kapten rizky, correct?
+[2025-07-11 09:20:42] Kapten: salah over
+[2025-07-11 09:20:42] AI: Kami catat nama kapten nama kapten rizky, correct?
+[2025-07-11 09:20:46] AI: Kalau begitu mohon ulangi untuk nama kapten, kept?
+[2025-07-11 09:20:57] Kapten: nama lengkap Kapten Rizky over
+[2025-07-11 09:20:57] AI: Kalau begitu mohon ulangi untuk nama kapten, capt?
+[2025-07-11 09:21:02] AI: Kami catat nama kapten nama lengkap kapten rizky, correct?
+[2025-07-11 09:21:07] Kapten: salah over
+[2025-07-11 09:21:07] AI: Kami catat nama kapten nama lengkap kapten rizky, correct?
+[2025-07-11 09:21:11] AI: Kalau begitu mohon ulangi untuk nama kapten, kept?
+[2025-07-11 09:21:16] Kapten: nama Kapten Rizky
+[2025-07-11 09:21:16] AI: Kalau begitu mohon ulangi untuk nama kapten, capt?
+[2025-07-11 09:21:21] AI: Kami catat nama kapten nama kapten rizky, correct?
+[2025-07-11 09:21:26] Kapten: salah over
+[2025-07-11 09:21:26] AI: Kami catat nama kapten nama kapten rizky, correct?
+[2025-07-11 09:21:30] AI: Kalau begitu mohon ulangi untuk nama kapten, kept?
+[2025-07-11 09:21:37] Kapten: nama Kapten adalah Rizki over
+[2025-07-11 09:21:37] AI: Kalau begitu mohon ulangi untuk nama kapten, capt?
+[2025-07-11 09:21:43] AI: Kami catat nama kapten nama kapten adalah rizki, correct?
+[2025-07-11 09:21:48] Kapten: ya correct Google
+[2025-07-11 09:21:48] AI: Kami catat nama kapten nama kapten adalah rizki, correct?
+[2025-07-11 09:21:55] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-11 09:22:00] Kapten: jumlah kru kapal 7 orang over
+[2025-07-11 09:22:04] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 09:22:09] Kapten: Forex over
+[2025-07-11 09:22:09] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 09:22:13] AI: Kalau begitu mohon ulangi untuk jumlah kru, kept?
+[2025-07-11 09:22:18] Kapten: jumlah kru kapal 7 orang
+[2025-07-11 09:22:18] AI: Kalau begitu mohon ulangi untuk jumlah kru, capt?
+[2025-07-11 09:22:22] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 09:22:26] Kapten: Forex over
+[2025-07-11 09:22:26] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 09:22:31] AI: Kalau begitu mohon ulangi untuk jumlah kru, kept?
+[2025-07-11 09:22:37] Kapten: jumlah kru kapal 7 orang over
+[2025-07-11 09:22:37] AI: Kalau begitu mohon ulangi untuk jumlah kru, capt?
+[2025-07-11 09:22:41] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 09:22:55] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 09:23:00] Kapten: correct over
+[2025-07-11 09:23:00] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 09:23:03] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 09:23:08] Kapten: tidak ada terima kasih Google
+[2025-07-11 09:23:13] AI: Senang bisa membantu. Ada lagi yang bisa saya bantu?
+[2025-07-11 09:23:45] AI: Baik, terima kasih atas informasi nya capt, untuk kapal ABM JINJU tercatat berjenis TUG/TOW silahkan berlabuh ke zona C, tolong informasikan kembali kepada kami jika kapal sudah sandar kept, VTS Cirebon kembali standby channel 16, 12 over and out.
+[2025-07-11 09:34:04] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:34:04] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:34:04] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:34:04] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:34:15] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 09:34:15] AI: 
+[2025-07-11 09:34:19] Kapten: PT cerbung
+[2025-07-11 09:34:25] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 09:34:32] Kapten: asal keberangkatan kapal dari Cirebon over
+[2025-07-11 09:34:37] AI: Kami catat pemberangkatan an kapal dari cirebon, correct?
+[2025-07-11 09:34:41] Kapten: salah over
+[2025-07-11 09:34:41] AI: Kami catat pemberangkatan an kapal dari cirebon, correct?
+[2025-07-11 09:34:46] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:34:51] Kapten: kami dari Surabaya
+[2025-07-11 09:34:51] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:34:55] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:35:00] Kapten: salah over
+[2025-07-11 09:35:00] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:35:04] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:35:10] Kapten: keberangkatan dari Surabaya
+[2025-07-11 09:35:10] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:35:15] AI: Kami catat pemberangkatan an dari surabaya, correct?
+[2025-07-11 09:35:18] Kapten: salah over
+[2025-07-11 09:35:18] AI: Kami catat pemberangkatan an dari surabaya, correct?
+[2025-07-11 09:35:23] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:35:29] Kapten: kapal berasal dari Surabaya
+[2025-07-11 09:35:29] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:35:33] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 09:35:37] Kapten: salah salah
+[2025-07-11 09:35:37] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 09:35:41] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:35:48] Kapten: keberangkatan kapal dari Surabaya
+[2025-07-11 09:35:48] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:35:53] AI: Kami catat pemberangkatan an kapal dari surabaya, correct?
+[2025-07-11 09:46:11] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:46:11] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:46:11] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:46:11] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:46:21] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 09:46:21] AI: 
+[2025-07-11 09:47:56] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:47:56] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:47:56] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:47:56] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:48:43] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:48:43] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:48:43] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:48:43] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:49:24] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:49:24] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:49:24] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:49:24] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:49:32] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 09:49:32] AI: 
+[2025-07-11 09:49:36] Kapten: ABM
+[2025-07-11 09:49:42] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 09:49:46] Kapten: keberangkatan kapal
+[2025-07-11 09:49:49] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:49:53] Kapten: salah
+[2025-07-11 09:49:53] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:49:58] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:50:02] Kapten: keberangkatan
+[2025-07-11 09:50:02] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:50:06] AI: Kami catat pemberangkatan an, correct?
+[2025-07-11 09:50:10] Kapten: salah over
+[2025-07-11 09:50:10] AI: Kami catat pemberangkatan an, correct?
+[2025-07-11 09:50:15] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:50:18] Kapten: keberangkatan kapal dari
+[2025-07-11 09:50:18] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:50:22] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 09:50:26] Kapten: salah Google
+[2025-07-11 09:50:26] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 09:50:30] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:50:37] Kapten: keberangkatan kapal dari Makassar Bogor
+[2025-07-11 09:50:37] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:50:41] AI: Kami catat pemberangkatan dari makassar bogor, correct?
+[2025-07-11 09:52:06] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:52:06] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:52:06] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:52:06] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:52:15] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 09:52:15] AI: 
+[2025-07-11 09:52:19] Kapten: Alfa
+[2025-07-11 09:52:25] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 09:52:29] Kapten: keberangkatan
+[2025-07-11 09:52:32] AI: Kami catat pemberangkatan an, correct?
+[2025-07-11 09:52:36] Kapten: salah over
+[2025-07-11 09:52:36] AI: Kami catat pemberangkatan an, correct?
+[2025-07-11 09:52:41] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:52:45] Kapten: keberangkatan kapal dari
+[2025-07-11 09:52:45] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:52:49] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 09:52:53] Kapten: salah over
+[2025-07-11 09:52:53] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 09:52:57] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:53:01] Kapten: keberangkatan kapal
+[2025-07-11 09:53:01] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:53:05] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:53:09] Kapten: salah over
+[2025-07-11 09:53:09] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:53:13] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:53:17] Kapten: keberangkatan kapal
+[2025-07-11 09:53:17] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:53:21] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:53:33] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:53:37] Kapten: salah over
+[2025-07-11 09:53:37] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 09:53:41] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:53:57] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:54:01] Kapten: keberangkatan kapal dari
+[2025-07-11 09:54:01] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:54:05] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 09:54:20] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 09:54:32] Kapten: salah over
+[2025-07-11 09:54:32] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 09:54:36] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:54:43] Kapten: keberangkatan kapal dari Sumatera over
+[2025-07-11 09:54:43] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:54:47] AI: Kami catat pemberangkatan dari sumatera, correct?
+[2025-07-11 09:54:53] Kapten: forever
+[2025-07-11 09:54:53] AI: Kami catat pemberangkatan dari sumatera, correct?
+[2025-07-11 09:54:57] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 09:55:03] Kapten: keberangkatan kapal dari Sumatera Ubud
+[2025-07-11 09:55:03] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 09:55:08] AI: Kami catat pemberangkatan dari sumatera ubud, correct?
+[2025-07-11 09:57:14] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 09:57:14] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 09:57:14] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 09:57:14] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 09:57:23] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 09:57:23] AI: 
+[2025-07-11 09:57:27] Kapten: over
+[2025-07-11 09:57:33] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 09:57:39] Kapten: keberangkatan kapal dari Sumatera Barat
+[2025-07-11 09:57:44] AI: Kami catat pemberangkatan dari sumatera barat, correct?
+[2025-07-11 09:57:48] Kapten: correct over
+[2025-07-11 09:57:48] AI: Kami catat pemberangkatan dari sumatera barat, correct?
+[2025-07-11 09:57:58] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 09:58:05] Kapten: kedatangan Untuk bongkar muatan over
+[2025-07-11 09:58:08] AI: Kami catat maksud , correct?
+[2025-07-11 09:58:14] Kapten: salon
+[2025-07-11 09:58:14] AI: Kami catat maksud , correct?
+[2025-07-11 09:58:18] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 09:58:25] Kapten: kedatangan kapal Untuk bongkar muatan
+[2025-07-11 09:58:25] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 09:58:28] AI: Kami catat maksud , correct?
+[2025-07-11 09:58:32] Kapten: Solo
+[2025-07-11 09:58:32] AI: Kami catat maksud , correct?
+[2025-07-11 09:58:37] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 09:58:43] Kapten: maksud kedatangan Untuk bongkar muatan
+[2025-07-11 09:58:43] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 09:58:47] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 09:58:52] Kapten: correct over
+[2025-07-11 09:58:52] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 09:58:59] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 09:59:04] Kapten: muatan kapal
+[2025-07-11 09:59:07] AI: Kami catat muatan berupa , correct?
+[2025-07-11 09:59:12] Kapten: salah over
+[2025-07-11 09:59:12] AI: Kami catat muatan berupa , correct?
+[2025-07-11 09:59:17] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 09:59:22] Kapten: pembuatan kapal berupa
+[2025-07-11 09:59:22] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 09:59:27] AI: Kami catat muatan berupa pembuatan kapal berupa, correct?
+[2025-07-11 09:59:32] Kapten: salah were
+[2025-07-11 09:59:32] AI: Kami catat muatan berupa pembuatan kapal berupa, correct?
+[2025-07-11 09:59:37] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 09:59:42] Kapten: kapal berupa batu bara
+[2025-07-11 09:59:42] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 09:59:47] AI: Kami catat muatan berupa berupa batu bara, correct?
+[2025-07-11 09:59:52] Kapten: salah over
+[2025-07-11 09:59:52] AI: Kami catat muatan berupa berupa batu bara, correct?
+[2025-07-11 09:59:57] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:00:02] Kapten: muatan kapal berupa batuba
+[2025-07-11 10:00:02] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:00:08] AI: Kami catat muatan berupa muatan kapal berupa batuba, correct?
+[2025-07-11 10:00:13] Kapten: salah over
+[2025-07-11 10:00:13] AI: Kami catat muatan berupa muatan kapal berupa batuba, correct?
+[2025-07-11 10:00:18] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:00:23] Kapten: kapal membawa batu
+[2025-07-11 10:00:23] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:00:27] AI: Kami catat muatan berupa membawa batu, correct?
+[2025-07-11 10:00:33] Kapten: shallower
+[2025-07-11 10:00:33] AI: Kami catat muatan berupa membawa batu, correct?
+[2025-07-11 10:00:38] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:00:44] Kapten: kapal membawa batu
+[2025-07-11 10:00:44] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:00:49] AI: Kami catat muatan berupa membawa batu, correct?
+[2025-07-11 10:00:54] Kapten: salah over
+[2025-07-11 10:00:54] AI: Kami catat muatan berupa membawa batu, correct?
+[2025-07-11 10:00:59] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:01:03] Kapten: membawa batubara
+[2025-07-11 10:01:03] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:01:08] AI: Kami catat muatan berupa membawa batubara, correct?
+[2025-07-11 10:01:14] Kapten: salah over
+[2025-07-11 10:01:14] AI: Kami catat muatan berupa membawa batubara, correct?
+[2025-07-11 10:01:19] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:01:25] Kapten: muatan kapal adalah batu
+[2025-07-11 10:01:25] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:01:30] AI: Kami catat muatan berupa muatan kapal adalah batu, correct?
+[2025-07-11 10:01:35] Kapten: salah over
+[2025-07-11 10:01:35] AI: Kami catat muatan berupa muatan kapal adalah batu, correct?
+[2025-07-11 10:01:40] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:01:46] Kapten: muatan kapal berisi batuba
+[2025-07-11 10:01:46] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:01:52] AI: Kami catat muatan berupa muatan kapal berisi batuba, correct?
+[2025-07-11 10:07:16] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 10:07:16] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 10:07:16] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 10:07:16] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 10:07:25] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 10:07:25] AI: 
+[2025-07-11 10:07:30] Kapten: game Jungle
+[2025-07-11 10:07:36] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 10:07:41] Kapten: singkatan kapal dari Surabaya
+[2025-07-11 10:07:44] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 10:07:50] Kapten: salah over
+[2025-07-11 10:07:50] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 10:07:54] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 10:08:00] Kapten: keberangkatan kapal dari Surabaya
+[2025-07-11 10:08:00] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 10:08:04] AI: Kami catat pemberangkatan dari surabaya, correct?
+[2025-07-11 10:08:16] Kapten: shallower
+[2025-07-11 10:08:16] AI: Kami catat pemberangkatan dari surabaya, correct?
+[2025-07-11 10:08:20] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 10:08:33] Kapten: keberangkatan kapal Surabaya
+[2025-07-11 10:08:33] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 10:08:37] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 10:08:43] Kapten: salaman
+[2025-07-11 10:08:43] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 10:08:48] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 10:08:54] Kapten: keberangkatan kapal dari Surabaya
+[2025-07-11 10:08:54] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 10:08:58] AI: Kami catat pemberangkatan dari surabaya, correct?
+[2025-07-11 10:09:03] Kapten: salah over
+[2025-07-11 10:09:03] AI: Kami catat pemberangkatan dari surabaya, correct?
+[2025-07-11 10:09:08] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 10:09:14] Kapten: asal kami dari Surabaya
+[2025-07-11 10:09:14] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 10:09:18] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 10:09:23] Kapten: correct over
+[2025-07-11 10:09:23] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 10:09:33] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 10:09:42] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 10:09:46] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 10:09:50] Kapten: correct over
+[2025-07-11 10:09:50] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 10:09:57] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 10:10:03] Kapten: muatan kapal berupa batu bara
+[2025-07-11 10:10:07] AI: Kami catat muatan berupa batu bara, correct?
+[2025-07-11 10:10:21] AI: Kami catat muatan berupa batu bara, correct?
+[2025-07-11 10:10:25] Kapten: correct over
+[2025-07-11 10:10:25] AI: Kami catat muatan berupa batu bara, correct?
+[2025-07-11 10:10:31] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-11 10:10:37] Kapten: sebanyak 3000 ton over
+[2025-07-11 10:10:40] AI: Kami catat berat muatan , correct?
+[2025-07-11 10:10:45] Kapten: salah over
+[2025-07-11 10:10:45] AI: Kami catat berat muatan , correct?
+[2025-07-11 10:10:50] AI: Kalau begitu mohon ulangi untuk berat muatan, kept?
+[2025-07-11 10:10:56] Kapten: muatan sebanyak 3000 ton
+[2025-07-11 10:10:56] AI: Kalau begitu mohon ulangi untuk berat muatan, capt?
+[2025-07-11 10:11:00] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:11:06] Kapten: kok recover
+[2025-07-11 10:11:06] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:11:10] AI: Kalau begitu mohon ulangi untuk berat muatan, kept?
+[2025-07-11 10:11:22] Kapten: muatan sebanyak 3000 ton
+[2025-07-11 10:11:22] AI: Kalau begitu mohon ulangi untuk berat muatan, capt?
+[2025-07-11 10:11:27] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:11:39] Kapten: correct over
+[2025-07-11 10:11:39] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:11:45] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-11 10:11:52] Kapten: draft depan 5 meter
+[2025-07-11 10:11:56] AI: Kami catat draft depan 5, correct?
+[2025-07-11 10:12:02] Kapten: correct over
+[2025-07-11 10:12:02] AI: Kami catat draft depan 5, correct?
+[2025-07-11 10:12:09] AI: Boleh informasikan juga kept, untuk kedalaman draft belakangnya berapa meter? Over.
+[2025-07-11 10:12:18] Kapten: draft belakang sekitar 4 meter Bogor
+[2025-07-11 10:12:22] AI: Kami catat draft belakang 4, correct?
+[2025-07-11 10:12:26] Kapten: correct over
+[2025-07-11 10:12:26] AI: Kami catat draft belakang 4, correct?
+[2025-07-11 10:12:40] AI: Mohon diinformasikan estimasi waktu tiba di pelabuhan cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 10:12:47] Kapten: estimasi waktu tiba 2 jam lagi over
+[2025-07-11 10:12:58] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:12, correct?
+[2025-07-11 10:13:03] Kapten: correct over
+[2025-07-11 10:13:03] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:12, correct?
+[2025-07-11 10:13:09] AI: Tolong informasikan kepada kami nama lengkap kapten? Over.
+[2025-07-11 10:13:14] Kapten: nama Kapten Rizky
+[2025-07-11 10:13:18] AI: Kami catat nama kapten rizky, correct?
+[2025-07-11 10:13:30] Kapten: correct over
+[2025-07-11 10:13:30] AI: Kami catat nama kapten rizky, correct?
+[2025-07-11 10:13:36] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-11 10:13:41] Kapten: jumlah kru kapal 6 orang
+[2025-07-11 10:13:45] AI: Kami catat jumlah kru 6, correct?
+[2025-07-11 10:13:50] Kapten: correct over
+[2025-07-11 10:13:50] AI: Kami catat jumlah kru 6, correct?
+[2025-07-11 10:13:54] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 10:14:00] Kapten: terjadi kebakaran di desa pa
+[2025-07-11 10:14:10] AI: Silakan hubungi otoritas terkait atau tim darurat kapal jika diperlukan. Jaga keselamatan diri dan awak kapal Anda.
+[2025-07-11 10:14:14] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 10:14:21] Kapten: tidak ada terima kasih
+[2025-07-11 10:14:28] AI: Terima kasih kembali. Jangan sungkan bertanya lagi jika ada yang perlu dibantu.
+[2025-07-11 10:14:57] AI: Baik, terima kasih atas informasi nya capt, untuk kapal ABM JINJU tercatat berjenis TUG/TOW silahkan berlabuh ke zona C, tolong informasikan kembali kepada kami jika kapal sudah sandar kept, VTS Cirebon kembali standby channel 16, 12 over and out.
+[2025-07-11 10:22:09] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 10:22:09] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 10:22:09] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 10:22:09] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 10:22:18] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 10:22:18] AI: 
+[2025-07-11 10:22:23] Kapten: alfa bravo
+[2025-07-11 10:22:29] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 10:22:34] Kapten: keberangkatan kapal dari Sumatera
+[2025-07-11 10:22:39] AI: Kami catat pemberangkatan dari sumatera, correct?
+[2025-07-11 10:26:58] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 10:26:58] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 10:26:58] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 10:26:58] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 10:27:07] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 10:27:07] AI: 
+[2025-07-11 10:27:13] Kapten: vts Cirebon bagaimana
+[2025-07-11 10:27:19] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 10:27:25] Kapten: keberangkatan kapal dari Surabaya
+[2025-07-11 10:27:30] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 10:27:35] Kapten: Ok over
+[2025-07-11 10:27:35] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 10:27:39] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 10:27:45] Kapten: keberangkatan kapal dari Surabaya
+[2025-07-11 10:27:45] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 10:27:50] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 10:27:54] Kapten: correct over
+[2025-07-11 10:27:54] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 10:28:04] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 10:28:28] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 10:28:35] Kapten: kami datang ke Cirebon Untuk bongkar muatan over
+[2025-07-11 10:28:39] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 10:28:44] Kapten: correct over
+[2025-07-11 10:28:44] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 10:28:51] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 10:28:57] Kapten: muatan kapal berupa semen over
+[2025-07-11 10:29:01] AI: Kami catat muatan berupa semen, correct?
+[2025-07-11 10:29:06] Kapten: correct over
+[2025-07-11 10:29:06] AI: Kami catat muatan berupa semen, correct?
+[2025-07-11 10:29:11] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-11 10:29:18] Kapten: berat muatan sekitar 3000 ton over
+[2025-07-11 10:29:22] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:29:28] Kapten: salah over
+[2025-07-11 10:29:28] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:29:33] AI: Kalau begitu mohon ulangi untuk berat muatan, kept?
+[2025-07-11 10:29:40] Kapten: berat muatan sekitar 3000 ton over
+[2025-07-11 10:29:40] AI: Kalau begitu mohon ulangi untuk berat muatan, capt?
+[2025-07-11 10:29:44] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:29:49] Kapten: correct over
+[2025-07-11 10:29:49] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:29:56] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-11 10:30:02] Kapten: jok depan sekitar 5 meter over
+[2025-07-11 10:30:06] AI: Kami catat draft depan , correct?
+[2025-07-11 10:30:10] Kapten: salah over
+[2025-07-11 10:30:10] AI: Kami catat draft depan , correct?
+[2025-07-11 10:30:15] AI: Kalau begitu mohon ulangi untuk draft depan, kept?
+[2025-07-11 10:30:22] Kapten: drag depan sekitar 5 meter over
+[2025-07-11 10:30:22] AI: Kalau begitu mohon ulangi untuk draft depan, capt?
+[2025-07-11 10:30:25] AI: Kami catat draft depan , correct?
+[2025-07-11 10:30:31] Kapten: salah over
+[2025-07-11 10:30:31] AI: Kami catat draft depan , correct?
+[2025-07-11 10:30:35] AI: Kalau begitu mohon ulangi untuk draft depan, kept?
+[2025-07-11 10:30:41] Kapten: graf depan sekitar 5 meter over
+[2025-07-11 10:30:41] AI: Kalau begitu mohon ulangi untuk draft depan, capt?
+[2025-07-11 10:30:45] AI: Kami catat draft depan , correct?
+[2025-07-11 10:30:49] Kapten: salah over
+[2025-07-11 10:30:49] AI: Kami catat draft depan , correct?
+[2025-07-11 10:30:54] AI: Kalau begitu mohon ulangi untuk draft depan, kept?
+[2025-07-11 10:30:59] Kapten: sekitar 5 meter
+[2025-07-11 10:30:59] AI: Kalau begitu mohon ulangi untuk draft depan, capt?
+[2025-07-11 10:31:02] AI: Kami catat draft depan , correct?
+[2025-07-11 10:31:07] Kapten: salawe
+[2025-07-11 10:31:07] AI: Kami catat draft depan , correct?
+[2025-07-11 10:31:11] AI: Kalau begitu mohon ulangi untuk draft depan, kept?
+[2025-07-11 10:31:17] Kapten: draft depan sekitar 5 meter over
+[2025-07-11 10:31:17] AI: Kalau begitu mohon ulangi untuk draft depan, capt?
+[2025-07-11 10:31:21] AI: Kami catat draft depan 5, correct?
+[2025-07-11 10:31:26] Kapten: correct over
+[2025-07-11 10:31:26] AI: Kami catat draft depan 5, correct?
+[2025-07-11 10:31:33] AI: Boleh informasikan juga kept, untuk kedalaman draft belakangnya berapa meter? Over.
+[2025-07-11 10:31:40] Kapten: kedalaman belakang sekitar 4 meter
+[2025-07-11 10:31:44] AI: Kami catat draft belakang 4, correct?
+[2025-07-11 10:31:49] Kapten: correct over
+[2025-07-11 10:31:49] AI: Kami catat draft belakang 4, correct?
+[2025-07-11 10:32:03] AI: Mohon diinformasikan estimasi waktu tiba di pelabuhan cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 10:32:09] Kapten: estimasi waktu tiba 2 jam
+[2025-07-11 10:32:20] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:32, correct?
+[2025-07-11 10:32:25] Kapten: correct over
+[2025-07-11 10:32:25] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:32, correct?
+[2025-07-11 10:32:31] AI: Tolong informasikan kepada kami nama lengkap kapten? Over.
+[2025-07-11 10:32:37] Kapten: nama Kapten Rizky resi Julian
+[2025-07-11 10:32:42] AI: Kami catat nama kapten rizky resi julian, correct?
+[2025-07-11 10:32:59] AI: Kami catat nama kapten rizky resi julian, correct?
+[2025-07-11 10:33:04] Kapten: correct over
+[2025-07-11 10:33:04] AI: Kami catat nama kapten rizky resi julian, correct?
+[2025-07-11 10:33:10] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-11 10:33:16] Kapten: jumlah kru kapal
+[2025-07-11 10:33:19] AI: Kami catat jumlah kru , correct?
+[2025-07-11 10:33:24] Kapten: salah over
+[2025-07-11 10:33:24] AI: Kami catat jumlah kru , correct?
+[2025-07-11 10:33:28] AI: Kalau begitu mohon ulangi untuk jumlah kru, kept?
+[2025-07-11 10:33:33] Kapten: jumlah crew kami
+[2025-07-11 10:33:33] AI: Kalau begitu mohon ulangi untuk jumlah kru, capt?
+[2025-07-11 10:33:36] AI: Kami catat jumlah kru , correct?
+[2025-07-11 10:33:43] Kapten: salah
+[2025-07-11 10:33:43] AI: Kami catat jumlah kru , correct?
+[2025-07-11 10:33:47] AI: Kalau begitu mohon ulangi untuk jumlah kru, kept?
+[2025-07-11 10:33:52] Kapten: jumlah kru 5 orang
+[2025-07-11 10:33:52] AI: Kalau begitu mohon ulangi untuk jumlah kru, capt?
+[2025-07-11 10:33:56] AI: Kami catat jumlah kru 5, correct?
+[2025-07-11 10:34:02] Kapten: correct over
+[2025-07-11 10:34:02] AI: Kami catat jumlah kru 5, correct?
+[2025-07-11 10:34:06] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 10:34:11] Kapten: tidak ada terima kasih
+[2025-07-11 10:34:12] AI: Sama-sama!
+[2025-07-11 10:34:41] AI: Baik, terima kasih atas informasi nya capt, untuk kapal ABM JINJU tercatat berjenis TUG/TOW silahkan berlabuh ke zona C, tolong informasikan kembali kepada kami jika kapal sudah sandar kept, VTS Cirebon kembali standby channel 16, 12 over and out.
+[2025-07-11 10:42:21] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 10:42:21] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 10:42:21] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 10:42:21] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 10:42:31] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 10:42:31] AI: 
+[2025-07-11 10:42:36] Kapten: vts Cirebon Bagaimana over
+[2025-07-11 10:42:42] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 10:42:48] Kapten: keberangkatan kapal dari Makassar
+[2025-07-11 10:42:52] AI: Kami catat pemberangkatan makassar, correct?
+[2025-07-11 10:42:57] Kapten: correct over
+[2025-07-11 10:42:57] AI: Kami catat pemberangkatan makassar, correct?
+[2025-07-11 10:43:07] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 10:43:13] Kapten: tujuan kedatangan Untuk bongkar muatan
+[2025-07-11 10:43:18] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 10:43:22] Kapten: correct over
+[2025-07-11 10:43:22] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 10:43:29] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 10:43:34] Kapten: pembuatan kapal berupa batu bara
+[2025-07-11 10:43:38] AI: Kami catat muatan berupa , correct?
+[2025-07-11 10:43:42] Kapten: salah over
+[2025-07-11 10:43:42] AI: Kami catat muatan berupa , correct?
+[2025-07-11 10:43:47] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:43:53] Kapten: muatan kapal berupa batu bara
+[2025-07-11 10:43:53] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:43:59] AI: Kami catat muatan berupa muatan kapal berupa batu bara, correct?
+[2025-07-11 10:44:05] Kapten: salon
+[2025-07-11 10:44:05] AI: Kami catat muatan berupa muatan kapal berupa batu bara, correct?
+[2025-07-11 10:44:09] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:44:16] Kapten: muatan kapal berupa batu bara
+[2025-07-11 10:44:16] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:44:22] AI: Kami catat muatan berupa muatan kapal berupa batu bara, correct?
+[2025-07-11 10:44:26] Kapten: salah power
+[2025-07-11 10:44:26] AI: Kami catat muatan berupa muatan kapal berupa batu bara, correct?
+[2025-07-11 10:44:31] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:44:35] Kapten: kapal membawa batubara over
+[2025-07-11 10:44:35] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:44:41] AI: Kami catat muatan berupa kapal membawa batubara, correct?
+[2025-07-11 10:44:46] Kapten: salah over
+[2025-07-11 10:44:46] AI: Kami catat muatan berupa kapal membawa batubara, correct?
+[2025-07-11 10:44:51] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:44:56] Kapten: muatan berupa batubara
+[2025-07-11 10:44:56] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:45:02] AI: Kami catat muatan berupa muatan berupa batubara, correct?
+[2025-07-11 10:45:07] Kapten: correct over
+[2025-07-11 10:45:07] AI: Kami catat muatan berupa muatan berupa batubara, correct?
+[2025-07-11 10:45:12] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-11 10:45:17] Kapten: muatan
+[2025-07-11 10:45:20] AI: Kami catat berat muatan , correct?
+[2025-07-11 10:45:24] Kapten: salon
+[2025-07-11 10:45:24] AI: Kami catat berat muatan , correct?
+[2025-07-11 10:45:29] AI: Kalau begitu mohon ulangi untuk berat muatan, kept?
+[2025-07-11 10:45:35] Kapten: berat muatan sekitar 3000 ton over
+[2025-07-11 10:45:35] AI: Kalau begitu mohon ulangi untuk berat muatan, capt?
+[2025-07-11 10:45:39] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:45:45] Kapten: correct over
+[2025-07-11 10:45:45] AI: Kami catat berat muatan 3000, correct?
+[2025-07-11 10:45:52] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-11 10:52:45] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 10:52:45] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 10:52:45] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 10:52:45] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 10:52:54] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 10:52:54] AI: 
+[2025-07-11 10:53:00] Kapten: vts Cirebon bagaimana
+[2025-07-11 10:53:06] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 10:53:17] Kapten: keberangkatan kapal dari Sumatera
+[2025-07-11 10:53:21] AI: Kami catat pemberangkatan sumatera, correct?
+[2025-07-11 10:53:26] Kapten: correct over
+[2025-07-11 10:53:26] AI: Kami catat pemberangkatan sumatera, correct?
+[2025-07-11 10:53:36] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 10:53:41] Kapten: kedatangan Untuk bongkar muatan over
+[2025-07-11 10:53:44] AI: Kami catat maksud , correct?
+[2025-07-11 10:53:49] Kapten: salon
+[2025-07-11 10:53:49] AI: Kami catat maksud , correct?
+[2025-07-11 10:53:53] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 10:53:59] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 10:53:59] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 10:54:03] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 10:54:13] Kapten: correct
+[2025-07-11 10:54:13] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 10:54:20] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 10:54:25] Kapten: muatan kapal berupa batubara
+[2025-07-11 10:54:30] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 10:54:36] Kapten: salon
+[2025-07-11 10:54:36] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 10:54:41] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:54:45] Kapten: adalah batuba
+[2025-07-11 10:54:45] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:54:50] AI: Kami catat muatan berupa adalah batuba, correct?
+[2025-07-11 10:54:55] Kapten: salah over
+[2025-07-11 10:54:55] AI: Kami catat muatan berupa adalah batuba, correct?
+[2025-07-11 10:55:00] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:55:06] Kapten: muatan kapal berupa batubara
+[2025-07-11 10:55:06] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:55:11] AI: Kami catat muatan berupa muatan kapal berupa batubara, correct?
+[2025-07-11 10:55:18] Kapten: salah over
+[2025-07-11 10:55:18] AI: Kami catat muatan berupa muatan kapal berupa batubara, correct?
+[2025-07-11 10:55:22] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:55:28] Kapten: muatan kapal berupa batubara
+[2025-07-11 10:55:28] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:55:34] AI: Kami catat muatan berupa muatan kapal berupa batubara, correct?
+[2025-07-11 10:55:38] Kapten: follower
+[2025-07-11 10:55:38] AI: Kami catat muatan berupa muatan kapal berupa batubara, correct?
+[2025-07-11 10:55:42] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 10:55:47] Kapten: kapal membawa batubara
+[2025-07-11 10:55:47] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 10:55:52] AI: Kami catat muatan berupa kapal membawa batubara, correct?
+[2025-07-11 11:29:01] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 11:29:01] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 11:29:01] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 11:29:01] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 11:29:10] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 11:29:10] AI: 
+[2025-07-11 11:29:15] Kapten: TTS Cirebon Bagaimana over
+[2025-07-11 11:29:21] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 11:29:27] Kapten: keberangkatan kapal dari Cilegon over
+[2025-07-11 11:29:31] AI: Kami catat pemberangkatan cilegon, correct?
+[2025-07-11 11:29:37] Kapten: correct over
+[2025-07-11 11:29:37] AI: Kami catat pemberangkatan cilegon, correct?
+[2025-07-11 11:29:47] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 11:29:52] Kapten: kedatangan Untuk bongkar muatan u
+[2025-07-11 11:29:55] AI: Kami catat maksud , correct?
+[2025-07-11 11:30:01] Kapten: sholawat
+[2025-07-11 11:30:01] AI: Kami catat maksud , correct?
+[2025-07-11 11:30:05] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 11:30:12] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 11:30:12] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 11:30:16] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 11:30:31] Kapten: correct over
+[2025-07-11 11:30:31] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 11:30:37] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 11:30:42] Kapten: kapal berupa batu
+[2025-07-11 11:30:46] AI: Kami catat muatan berupa , correct?
+[2025-07-11 11:30:51] Kapten: salah over
+[2025-07-11 11:30:51] AI: Kami catat muatan berupa , correct?
+[2025-07-11 11:30:56] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:31:01] Kapten: kapal berupa batu bara over
+[2025-07-11 11:31:01] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:31:06] AI: Kami catat muatan berupa kapal berupa batu bara, correct?
+[2025-07-11 11:31:24] AI: Kami catat muatan berupa kapal berupa batu bara, correct?
+[2025-07-11 11:31:30] Kapten: salah over
+[2025-07-11 11:31:30] AI: Kami catat muatan berupa kapal berupa batu bara, correct?
+[2025-07-11 11:31:35] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:31:41] Kapten: muatan kapal berupa batu bara over
+[2025-07-11 11:31:41] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:31:47] AI: Kami catat muatan berupa muatan kapal berupa batu bara, correct?
+[2025-07-11 11:31:52] Kapten: Sal over
+[2025-07-11 11:31:52] AI: Kami catat muatan berupa muatan kapal berupa batu bara, correct?
+[2025-07-11 11:31:56] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:32:02] Kapten: kapal membawa batuba
+[2025-07-11 11:32:02] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:32:07] AI: Kami catat muatan berupa kapal membawa batuba, correct?
+[2025-07-11 11:32:20] Kapten: salah over
+[2025-07-11 11:32:20] AI: Kami catat muatan berupa kapal membawa batuba, correct?
+[2025-07-11 11:35:31] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 11:35:31] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 11:35:31] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 11:35:31] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 11:35:40] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 11:35:40] AI: 
+[2025-07-11 11:35:44] Kapten: Bagaimana over
+[2025-07-11 11:35:50] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 11:35:55] Kapten: keberangkatan kapal dari
+[2025-07-11 11:35:58] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 11:36:03] Kapten: sholawat
+[2025-07-11 11:36:03] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 11:36:08] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 11:36:13] Kapten: keberangkatan dari Surabaya
+[2025-07-11 11:36:13] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 11:36:17] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 11:36:22] Kapten: correct over
+[2025-07-11 11:36:22] AI: Kami catat pemberangkatan surabaya, correct?
+[2025-07-11 11:36:32] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 11:36:39] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 11:36:44] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 11:36:48] Kapten: correct over
+[2025-07-11 11:36:48] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 11:36:55] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 11:37:00] Kapten: muatan kapal berupa
+[2025-07-11 11:37:04] AI: Kami catat muatan berupa berupa, correct?
+[2025-07-11 11:37:09] Kapten: salah over
+[2025-07-11 11:37:09] AI: Kami catat muatan berupa berupa, correct?
+[2025-07-11 11:37:14] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:37:19] Kapten: muatan kapal berupa batuba
+[2025-07-11 11:37:19] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:37:25] AI: Kami catat muatan berupa muatan kapal berupa batuba, correct?
+[2025-07-11 11:37:30] Kapten: salah woi
+[2025-07-11 11:37:30] AI: Kami catat muatan berupa muatan kapal berupa batuba, correct?
+[2025-07-11 11:37:35] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:37:40] Kapten: muatan kapal batubara
+[2025-07-11 11:37:40] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:37:45] AI: Kami catat muatan berupa muatan kapal batubara, correct?
+[2025-07-11 11:37:49] Kapten: salah over
+[2025-07-11 11:37:49] AI: Kami catat muatan berupa muatan kapal batubara, correct?
+[2025-07-11 11:37:54] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:37:59] Kapten: kapal membawa batu
+[2025-07-11 11:37:59] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:38:04] AI: Kami catat muatan berupa kapal membawa batu, correct?
+[2025-07-11 11:38:19] AI: Kami catat muatan berupa kapal membawa batu, correct?
+[2025-07-11 11:38:28] Kapten: salon
+[2025-07-11 11:38:28] AI: Kami catat muatan berupa kapal membawa batu, correct?
+[2025-07-11 11:38:33] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:38:38] Kapten: kami berisi batuba
+[2025-07-11 11:38:38] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:38:44] AI: Kami catat muatan berupa kami berisi batuba, correct?
+[2025-07-11 11:38:56] Kapten: salon
+[2025-07-11 11:38:56] AI: Kami catat muatan berupa kami berisi batuba, correct?
+[2025-07-11 11:39:01] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:39:07] Kapten: muatan kami berisi batubara
+[2025-07-11 11:39:07] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:39:13] AI: Kami catat muatan berupa muatan kami berisi batubara, correct?
+[2025-07-11 11:45:47] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 11:45:47] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 11:45:47] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 11:45:47] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 11:45:56] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 11:45:56] AI: 
+[2025-07-11 11:46:01] Kapten: vts
+[2025-07-11 11:46:07] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 11:46:25] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 11:46:31] Kapten: keberangkatan kapal dari
+[2025-07-11 11:46:35] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 11:46:44] Kapten: salah over
+[2025-07-11 11:46:44] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-11 11:46:48] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 11:46:56] Kapten: keberangkatan kapal dari Sumatera over
+[2025-07-11 11:46:56] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 11:47:00] AI: Kami catat pemberangkatan sumatera, correct?
+[2025-07-11 11:47:09] Kapten: correct Kore
+[2025-07-11 11:47:09] AI: Kami catat pemberangkatan sumatera, correct?
+[2025-07-11 11:47:19] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 11:47:26] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 11:47:31] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 11:47:36] Kapten: correct over
+[2025-07-11 11:47:36] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 11:47:43] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 11:47:48] Kapten: kapal berupa batu bara over
+[2025-07-11 11:47:52] AI: Kami catat muatan berupa , correct?
+[2025-07-11 11:48:07] AI: Kami catat muatan berupa , correct?
+[2025-07-11 11:48:12] Kapten: salah
+[2025-07-11 11:48:12] AI: Kami catat muatan berupa , correct?
+[2025-07-11 11:48:17] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:48:23] Kapten: muatan kapal berupa batu ba
+[2025-07-11 11:48:23] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:48:29] AI: Kami catat muatan berupa muatan kapal berupa batu ba, correct?
+[2025-07-11 11:54:45] AI: [INFO] Nama Petugas Penanggung Jawab: RAMSI NUKKUHALY
+[2025-07-11 11:54:45] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 11:54:45] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 11:54:45] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 11:54:54] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 11:54:54] AI: 
+[2025-07-11 11:54:58] Kapten: Cirebon bagaimana
+[2025-07-11 11:55:04] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 11:55:10] Kapten: keberangkatan kapal dari Sumatera Barat
+[2025-07-11 11:55:14] AI: Kami catat pemberangkatan sumatera barat, correct?
+[2025-07-11 11:55:30] AI: Kami catat pemberangkatan sumatera barat, correct?
+[2025-07-11 11:55:36] Kapten: correct over
+[2025-07-11 11:55:36] AI: Kami catat pemberangkatan sumatera barat, correct?
+[2025-07-11 11:55:46] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 11:55:52] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 11:55:56] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 11:56:01] Kapten: correct over
+[2025-07-11 11:56:01] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 11:56:08] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 11:56:14] Kapten: muatan kapal berupa batuba
+[2025-07-11 11:56:18] AI: Kami catat muatan berupa batuba, correct?
+[2025-07-11 11:56:24] Kapten: salah over
+[2025-07-11 11:56:24] AI: Kami catat muatan berupa batuba, correct?
+[2025-07-11 11:56:29] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 11:56:35] Kapten: muatan kapal berupa batubara over
+[2025-07-11 11:56:35] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 11:56:40] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 11:56:44] Kapten: correct over
+[2025-07-11 11:56:44] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 11:56:50] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-11 11:56:56] Kapten: berat muatan sekitar 300 ton over
+[2025-07-11 11:57:01] AI: Kami catat berat muatan 300 ton, correct?
+[2025-07-11 11:57:06] Kapten: correct over
+[2025-07-11 11:57:06] AI: Kami catat berat muatan 300 ton, correct?
+[2025-07-11 11:57:13] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-11 11:57:20] Kapten: draft depan sekitar 7 meter over
+[2025-07-11 11:57:24] AI: Kami catat draft depan 7, correct?
+[2025-07-11 11:57:28] Kapten: correct over
+[2025-07-11 11:57:28] AI: Kami catat draft depan 7, correct?
+[2025-07-11 11:57:35] AI: Boleh informasikan juga kept, untuk kedalaman draft belakangnya berapa meter? Over.
+[2025-07-11 11:57:43] Kapten: bagian belakang memiliki kedalaman sekitar 7 meter
+[2025-07-11 11:57:47] AI: Kami catat draft belakang 7, correct?
+[2025-07-11 11:57:52] Kapten: correct over
+[2025-07-11 11:57:52] AI: Kami catat draft belakang 7, correct?
+[2025-07-11 11:58:06] AI: Mohon diinformasikan estimasi waktu tiba di pelabuhan cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 11:58:13] Kapten: estimasi waktu tiba 1 jam lagi over
+[2025-07-11 11:58:24] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:58, correct?
+[2025-07-11 11:58:29] Kapten: correct over
+[2025-07-11 11:58:29] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 12:58, correct?
+[2025-07-11 11:58:34] AI: Tolong informasikan kepada kami nama lengkap kapten? Over.
+[2025-07-11 11:58:40] Kapten: nama Kapten Rizky over
+[2025-07-11 11:58:44] AI: Kami catat nama kapten rizky, correct?
+[2025-07-11 11:58:51] Kapten: correct over
+[2025-07-11 11:58:51] AI: Kami catat nama kapten rizky, correct?
+[2025-07-11 11:58:57] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-11 11:59:02] Kapten: jumlah kru 5 orang
+[2025-07-11 11:59:06] AI: Kami catat jumlah kru 5, correct?
+[2025-07-11 11:59:11] Kapten: correct over
+[2025-07-11 11:59:11] AI: Kami catat jumlah kru 5, correct?
+[2025-07-11 11:59:15] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 11:59:20] Kapten: Bagaimana cuaca hari ini
+[2025-07-11 11:59:28] AI: Informasi cuaca tidak tersedia melalui saya. Pastikan Anda selalu update dari sumber yang relevan.
+[2025-07-11 11:59:32] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 11:59:37] Kapten: Apakah ini Ai
+[2025-07-11 11:59:51] AI: Maaf, saya tidak memiliki akses langsung ke data cuaca terkini secara real-time. Mohon cek aplikasi cuaca atau sumber informasi cuaca yang terpercaya.
+[2025-07-11 11:59:55] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 12:00:09] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 12:00:14] Kapten: tidak ada cukup
+[2025-07-11 12:00:26] AI: Mohon tetap tenang dan waspada. Segera laporkan detail insiden kepada atasan Anda dan ikuti protokol keselamatan yang berlaku.
+[2025-07-11 12:00:55] AI: Baik, terima kasih atas informasi nya capt, untuk kapal ABM JINJU tercatat berjenis TUG/TOW silahkan berlabuh ke zona C, tolong informasikan kembali kepada kami jika kapal sudah sandar kept, VTS Cirebon kembali standby channel 16, 12 over and out.
+[2025-07-11 16:43:04] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-11 16:43:04] AI: [INFO] MMSI valid. Nama Kapal: ABM JINJU
+[2025-07-11 16:43:04] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 16:43:04] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 16:43:24] AI: ABM JINJU, VTS Cirebon memanggil, over.
+[2025-07-11 16:43:24] AI: 
+[2025-07-11 16:43:33] Kapten: Cirebon apa
+[2025-07-11 16:43:39] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-11 16:43:44] Kapten: kapal dari
+[2025-07-11 16:43:47] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 16:43:52] Kapten: salah over
+[2025-07-11 16:43:52] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 16:43:56] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 16:44:03] Kapten: singkatan dari pulau Bali over
+[2025-07-11 16:44:03] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 16:44:07] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 16:44:12] Kapten: salah over
+[2025-07-11 16:44:12] AI: Kami catat pemberangkatan , correct?
+[2025-07-11 16:44:17] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 16:44:23] Kapten: keberangkatan kapal dari pulau
+[2025-07-11 16:44:23] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 16:44:27] AI: Kami catat pemberangkatan pulau, correct?
+[2025-07-11 16:44:31] Kapten: salah over
+[2025-07-11 16:44:31] AI: Kami catat pemberangkatan pulau, correct?
+[2025-07-11 16:44:35] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-11 16:44:41] Kapten: keberangkatan kapal dari pulau Bali
+[2025-07-11 16:44:41] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-11 16:44:45] AI: Kami catat pemberangkatan pulau bali, correct?
+[2025-07-11 16:44:49] Kapten: correct over
+[2025-07-11 16:44:49] AI: Kami catat pemberangkatan pulau bali, correct?
+[2025-07-11 16:44:59] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-11 16:45:08] Kapten: maksud kedatangan kapal ke Cirebon Untuk bongkar muatan over
+[2025-07-11 16:45:13] AI: Kami catat maksud kapal ke cirebon untuk bongkar muatan, correct?
+[2025-07-11 16:45:19] Kapten: salah over
+[2025-07-11 16:45:19] AI: Kami catat maksud kapal ke cirebon untuk bongkar muatan, correct?
+[2025-07-11 16:45:23] AI: Kalau begitu mohon ulangi untuk maksud, kept?
+[2025-07-11 16:45:30] Kapten: maksud kedatangan Untuk bongkar muatan over
+[2025-07-11 16:45:30] AI: Kalau begitu mohon ulangi untuk maksud, capt?
+[2025-07-11 16:45:34] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 16:45:39] Kapten: correct over
+[2025-07-11 16:45:39] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-11 16:45:46] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 16:45:53] Kapten: muatan kami berupa batu
+[2025-07-11 16:45:57] AI: Kami catat muatan berupa batu, correct?
+[2025-07-11 16:46:01] Kapten: salah over
+[2025-07-11 16:46:01] AI: Kami catat muatan berupa batu, correct?
+[2025-07-11 16:46:06] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 16:46:12] Kapten: muatan kami berupa batubara
+[2025-07-11 16:46:12] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 16:46:16] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 16:46:21] Kapten: correct over
+[2025-07-11 16:46:21] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 16:46:26] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-11 16:46:33] Kapten: muatan sebanyak 20 to
+[2025-07-11 16:46:37] AI: Kami catat berat muatan 20 to, correct?
+[2025-07-11 16:46:42] Kapten: sholawat
+[2025-07-11 16:46:42] AI: Kami catat berat muatan 20 to, correct?
+[2025-07-11 16:46:47] AI: Kalau begitu mohon ulangi untuk berat muatan, kept?
+[2025-07-11 16:46:53] Kapten: muatan sebanyak 20000 to
+[2025-07-11 16:46:53] AI: Kalau begitu mohon ulangi untuk berat muatan, capt?
+[2025-07-11 16:46:57] AI: Kami catat berat muatan 20000 to, correct?
+[2025-07-11 16:47:02] Kapten: salah over
+[2025-07-11 16:47:02] AI: Kami catat berat muatan 20000 to, correct?
+[2025-07-11 16:47:07] AI: Kalau begitu mohon ulangi untuk berat muatan, kept?
+[2025-07-11 16:47:13] Kapten: muatan sebanyak 2000 ton over
+[2025-07-11 16:47:13] AI: Kalau begitu mohon ulangi untuk berat muatan, capt?
+[2025-07-11 16:47:18] AI: Kami catat berat muatan 2000 ton, correct?
+[2025-07-11 16:47:23] Kapten: correct over
+[2025-07-11 16:47:23] AI: Kami catat berat muatan 2000 ton, correct?
+[2025-07-11 16:47:29] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-11 16:47:37] Kapten: draft depan sekitar 4 meter Bogor
+[2025-07-11 16:47:41] AI: Kami catat draft depan 4, correct?
+[2025-07-11 16:47:46] Kapten: correct over
+[2025-07-11 16:47:46] AI: Kami catat draft depan 4, correct?
+[2025-07-11 16:47:53] AI: Boleh informasikan juga kept, untuk kedalaman draft belakangnya berapa meter? Over.
+[2025-07-11 16:48:00] Kapten: kedalaman belakang sekitar 4 meter juga
+[2025-07-11 16:48:04] AI: Kami catat draft belakang 4, correct?
+[2025-07-11 16:48:08] Kapten: correct over
+[2025-07-11 16:48:08] AI: Kami catat draft belakang 4, correct?
+[2025-07-11 16:48:22] AI: Mohon diinformasikan estimasi waktu tiba di pelabuhan cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 16:48:28] Kapten: estimasi waktu tiba jam 10 malam
+[2025-07-11 16:48:39] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 22:00, correct?
+[2025-07-11 16:48:44] Kapten: correct over
+[2025-07-11 16:48:44] AI: Kami catat estimasi tiba pada Tanggal 11, Bulan 07, Tahun 2025 22:00, correct?
+[2025-07-11 16:48:50] AI: Tolong informasikan kepada kami nama lengkap kapten? Over.
+[2025-07-11 16:48:57] Kapten: nama Kapten bagus Wijayanto
+[2025-07-11 16:49:01] AI: Kami catat nama kapten bagus wijayanto, correct?
+[2025-07-11 16:49:06] Kapten: correct over
+[2025-07-11 16:49:06] AI: Kami catat nama kapten bagus wijayanto, correct?
+[2025-07-11 16:49:12] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-11 16:49:41] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-11 16:49:45] Kapten: kurs 10 orang
+[2025-07-11 16:49:49] AI: Kami catat jumlah kru 10, correct?
+[2025-07-11 16:49:53] Kapten: correct over
+[2025-07-11 16:49:53] AI: Kami catat jumlah kru 10, correct?
+[2025-07-11 16:49:57] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 16:50:02] Kapten: sebentar
+[2025-07-11 16:50:06] AI: Selamat datang, silakan sampaikan pertanyaan Anda.
+[2025-07-11 16:50:10] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 16:50:16] Kapten: Saya kesal
+[2025-07-11 16:50:30] AI: Tenang dan tetap fokus. Anda bisa melaluinya. Apa ada hal lain yang bisa saya bantu untuk mengurangi beban Anda?
+[2025-07-11 16:50:34] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 16:50:41] Kapten: interaksi denganmu secara efektif
+[2025-07-11 16:50:52] AI: Saya bertindak sebagai asisten AI untuk mendukung Anda dalam berbagai tugas komunikasi dan informasi terkait operasional kapal.
+[2025-07-11 16:50:56] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 16:51:02] Kapten: penting ada masalah keamanan
+[2025-07-11 16:51:13] AI: Penting untuk bertindak cepat namun tenang. Ikuti prosedur tanggap darurat dan berikan informasi lebih lanjut jika memungkinkan.
+[2025-07-11 16:51:17] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 16:51:21] Kapten: itu robot
+[2025-07-11 16:51:28] AI: Saya sistem yang dirancang untuk membantu komunikasi dan informasi navigasi kapal.
+[2025-07-11 16:51:32] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 16:51:37] Kapten: itu sangat berguna
+[2025-07-11 16:51:42] AI: Senang bisa membantu. Ada lagi yang bisa saya bantu?
+[2025-07-11 16:51:46] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 16:51:55] Kapten: tidak ada terima kasih
+[2025-07-11 16:51:57] AI: Dengan senang hati!
+[2025-07-11 16:52:26] AI: Baik, terima kasih atas informasi nya capt, untuk kapal ABM JINJU tercatat berjenis TUG/TOW silahkan berlabuh ke zona C, tolong informasikan kembali kepada kami jika kapal sudah sandar kept, VTS Cirebon kembali standby channel 16, 12 over and out.
+[2025-07-11 17:13:13] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-11 17:13:13] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-11 17:13:13] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 17:13:13] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 17:13:29] AI: ABM INTAN, VTS Cirebon memanggil, over.
+[2025-07-11 17:13:29] AI: 
+[2025-07-11 17:13:34] Kapten: naik Intan over
+[2025-07-11 17:13:40] AI: Tolong informasikan kept, tujuan kapal mau kemana? Over.
+[2025-07-11 17:13:45] Kapten: kapal ke Kalimantan
+[2025-07-11 17:13:49] AI: Kami catat tujuan ke kalimantan, correct?
+[2025-07-11 17:13:54] Kapten: correct Bogor
+[2025-07-11 17:13:54] AI: Kami catat tujuan ke kalimantan, correct?
+[2025-07-11 17:14:06] AI: Mohon diinformasikan waktu keberangkatan dari cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 17:14:12] Kapten: waktu keberangkatan dari Cirebon
+[2025-07-11 17:14:37] AI: Mohon diinformasikan waktu keberangkatan dari cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 17:14:42] Kapten: waktu keberangkatan dari Cirebon
+[2025-07-11 17:15:07] AI: Mohon diinformasikan waktu keberangkatan dari cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 17:15:12] Kapten: 2 jam lagi over
+[2025-07-11 17:15:24] AI: Kami catat waktu keberangkatan dari cirebon pada Tanggal 11, Bulan 07, Tahun 2025 19:15, correct?
+[2025-07-11 17:15:29] Kapten: correct over
+[2025-07-11 17:15:29] AI: Kami catat waktu keberangkatan dari cirebon pada Tanggal 11, Bulan 07, Tahun 2025 19:15, correct?
+[2025-07-11 17:15:36] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 17:15:43] Kapten: muatan yang kami bawa
+[2025-07-11 17:15:48] AI: Kami catat muatan berupa yang kami bawa, correct?
+[2025-07-11 17:15:52] Kapten: salon
+[2025-07-11 17:15:52] AI: Kami catat muatan berupa yang kami bawa, correct?
+[2025-07-11 17:15:57] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 17:16:03] Kapten: muatan kapal berupa batu bara
+[2025-07-11 17:16:03] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 17:16:07] AI: Kami catat muatan berupa batu bara, correct?
+[2025-07-11 17:16:13] Kapten: salawe
+[2025-07-11 17:16:13] AI: Kami catat muatan berupa batu bara, correct?
+[2025-07-11 17:16:18] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 17:16:25] Kapten: muatan kapal adalah batuba
+[2025-07-11 17:16:25] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 17:16:29] AI: Kami catat muatan berupa batuba, correct?
+[2025-07-11 17:16:33] Kapten: salah
+[2025-07-11 17:16:33] AI: Kami catat muatan berupa batuba, correct?
+[2025-07-11 17:16:38] AI: Kalau begitu mohon ulangi untuk muatan berupa, kept?
+[2025-07-11 17:16:44] Kapten: muatan kapal berupa batubara
+[2025-07-11 17:16:44] AI: Kalau begitu mohon ulangi untuk muatan berupa, capt?
+[2025-07-11 17:16:48] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 17:16:53] Kapten: correct over
+[2025-07-11 17:16:53] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-11 17:16:58] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-11 17:17:06] Kapten: muatan sekitar 700 ton over
+[2025-07-11 17:17:09] AI: Kami catat berat muatan , correct?
+[2025-07-11 17:17:23] AI: Kami catat berat muatan , correct?
+[2025-07-11 17:17:27] Kapten: salah
+[2025-07-11 17:17:27] AI: Kami catat berat muatan , correct?
+[2025-07-11 17:17:32] AI: Kalau begitu mohon ulangi untuk berat muatan, kept?
+[2025-07-11 17:17:39] Kapten: berat muatan sekitar 700 ton over
+[2025-07-11 17:17:39] AI: Kalau begitu mohon ulangi untuk berat muatan, capt?
+[2025-07-11 17:17:44] AI: Kami catat berat muatan 700 ton, correct?
+[2025-07-11 17:17:49] Kapten: correct over
+[2025-07-11 17:17:49] AI: Kami catat berat muatan 700 ton, correct?
+[2025-07-11 17:17:56] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-11 17:18:01] Kapten: bagian depan memiliki
+[2025-07-11 17:18:04] AI: Kami catat draft depan , correct?
+[2025-07-11 17:18:08] Kapten: salon
+[2025-07-11 17:18:08] AI: Kami catat draft depan , correct?
+[2025-07-11 17:18:16] AI: Kalau begitu mohon ulangi untuk draft depan, kept?
+[2025-07-11 17:18:23] Kapten: bagian depan memiliki draft sekitar 7 meter
+[2025-07-11 17:18:23] AI: Kalau begitu mohon ulangi untuk draft depan, capt?
+[2025-07-11 17:18:27] AI: Kami catat draft depan 7, correct?
+[2025-07-11 17:18:31] Kapten: correct over
+[2025-07-11 17:18:31] AI: Kami catat draft depan 7, correct?
+[2025-07-11 17:18:39] AI: Boleh informasikan juga kept, untuk kedalaman draft belakangnya berapa meter? Over.
+[2025-07-11 17:18:45] Kapten: belakang kapal 5 meter over
+[2025-07-11 17:18:49] AI: Kami catat draft belakang 5, correct?
+[2025-07-11 17:18:53] Kapten: chord recover
+[2025-07-11 17:18:53] AI: Kami catat draft belakang 5, correct?
+[2025-07-11 17:18:58] AI: Kalau begitu mohon ulangi untuk draft belakang, kept?
+[2025-07-11 17:19:03] Kapten: belakang kapal 5 meter over
+[2025-07-11 17:19:03] AI: Kalau begitu mohon ulangi untuk draft belakang, capt?
+[2025-07-11 17:19:07] AI: Kami catat draft belakang 5, correct?
+[2025-07-11 17:19:12] Kapten: correct over
+[2025-07-11 17:19:12] AI: Kami catat draft belakang 5, correct?
+[2025-07-11 17:19:24] AI: Mohon diinformasikan estimasi waktu tiba di tujuannya, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 17:19:32] Kapten: estimasi waktu tiba minggu depan over
+[2025-07-11 17:19:43] AI: Kami catat estimasi tiba pada Tanggal 18, Bulan 07, Tahun 2025 00:00, correct?
+[2025-07-11 17:19:48] Kapten: correct over
+[2025-07-11 17:19:48] AI: Kami catat estimasi tiba pada Tanggal 18, Bulan 07, Tahun 2025 00:00, correct?
+[2025-07-11 17:19:53] AI: Tolong informasikan kepada kami nama lengkap kapten? Over.
+[2025-07-11 17:20:00] Kapten: nama lengkap Kapten Rizky resi Julian
+[2025-07-11 17:20:05] AI: Kami catat nama kapten rizky resi julian, correct?
+[2025-07-11 17:20:10] Kapten: correct over
+[2025-07-11 17:20:10] AI: Kami catat nama kapten rizky resi julian, correct?
+[2025-07-11 17:20:16] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-11 17:20:23] Kapten: total crew kami berjumlah 7 orang
+[2025-07-11 17:20:27] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 17:20:33] Kapten: correct over
+[2025-07-11 17:20:33] AI: Kami catat jumlah kru 7, correct?
+[2025-07-11 17:20:37] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 17:20:43] Kapten: terjadi kebakaran
+[2025-07-11 17:20:54] AI: Mohon tetap tenang dan waspada. Segera laporkan detail insiden kepada atasan Anda dan ikuti protokol keselamatan yang berlaku.
+[2025-07-11 17:20:58] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-11 17:21:03] Kapten: tidak ada terima kasih
+[2025-07-11 17:21:05] AI: Sama-sama!
+[2025-07-11 17:21:14] AI: Baik, terima kasih kept. VTS Cirebon kembali standby channel 16, 12 over and out.
+[2025-07-11 17:31:00] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-11 17:31:00] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-11 17:31:00] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-11 17:31:00] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-11 17:31:09] AI: ABM INTAN, VTS Cirebon memanggil, over.
+[2025-07-11 17:31:09] AI: 
+[2025-07-11 17:31:15] Kapten: gimana Bu
+[2025-07-11 17:31:21] AI: Tolong informasikan kept, tujuan kapal mau kemana? Over.
+[2025-07-11 17:31:26] Kapten: tujuan kapal
+[2025-07-11 17:31:30] AI: Kami catat tujuan ke kapal, correct?
+[2025-07-11 17:31:34] Kapten: salah over
+[2025-07-11 17:31:34] AI: Kami catat tujuan ke kapal, correct?
+[2025-07-11 17:31:39] AI: Kalau begitu mohon ulangi untuk tujuan ke, kept?
+[2025-07-11 17:31:44] Kapten: tujuan kapal ke Papua over
+[2025-07-11 17:31:44] AI: Kalau begitu mohon ulangi untuk tujuan ke, capt?
+[2025-07-11 17:31:48] AI: Kami catat tujuan ke papua, correct?
+[2025-07-11 17:31:53] Kapten: correct over
+[2025-07-11 17:31:53] AI: Kami catat tujuan ke papua, correct?
+[2025-07-11 17:32:06] AI: Mohon diinformasikan waktu keberangkatan dari cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-11 17:32:14] Kapten: estimasi waktu keberangkatan dari Cirebon besok pagi over
+[2025-07-11 17:32:24] AI: Kami catat waktu keberangkatan dari cirebon pada Tanggal 12 Juli 2025 pukul 08:00, correct?
+[2025-07-11 17:32:29] Kapten: correct over
+[2025-07-11 17:32:29] AI: Kami catat waktu keberangkatan dari cirebon pada Tanggal 12 Juli 2025 pukul 08:00, correct?
+[2025-07-11 17:32:35] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-11 17:32:42] Kapten: muatan yang kami
+[2025-07-14 20:32:52] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-14 20:32:52] AI: [INFO] MMSI valid. Nama Kapal: WAN HAI 309
+[2025-07-14 20:32:52] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-14 20:32:52] AI: [INFO] MMSI valid. Jenis Kapal: TANKER
+[2025-07-14 20:33:13] AI: WAN HAI 309, VTS Cirebon memanggil, over.
+[2025-07-14 20:33:13] AI: 
+[2025-07-14 20:33:19] Kapten: Bagaimana kabar
+[2025-07-14 20:33:25] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-14 20:33:31] Kapten: keberangkatan kapal dari Jakarta over
+[2025-07-14 20:33:51] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-14 20:33:51] AI: [INFO] MMSI valid. Nama Kapal: WAN HAI 309
+[2025-07-14 20:33:51] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-14 20:33:51] AI: [INFO] MMSI valid. Jenis Kapal: TANKER
+[2025-07-14 20:34:02] AI: WAN HAI 309, VTS Cirebon memanggil, over.
+[2025-07-14 20:34:02] AI: 
+[2025-07-14 20:34:09] Kapten: video Cirebon silakan over
+[2025-07-14 20:34:15] AI: Tolong informasikan kept, asal keberangkatan kapal darimana? Over.
+[2025-07-14 20:34:20] Kapten: keberangkatan kapal dari
+[2025-07-14 20:34:24] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-14 20:34:29] Kapten: salah over
+[2025-07-14 20:34:29] AI: Kami catat pemberangkatan dari, correct?
+[2025-07-14 20:34:34] AI: Kalau begitu mohon ulangi untuk pemberangkatan, kept?
+[2025-07-14 20:34:39] Kapten: keberangkatan kapal dari Jakarta
+[2025-07-14 20:34:39] AI: Kalau begitu mohon ulangi untuk pemberangkatan, capt?
+[2025-07-14 20:34:44] AI: Kami catat pemberangkatan jakarta, correct?
+[2025-07-14 20:34:48] Kapten: correct over
+[2025-07-14 20:34:48] AI: Kami catat pemberangkatan jakarta, correct?
+[2025-07-14 20:34:58] AI: Tolong informasinya kept untuk konfirmasi kembali, maksud kedatangan kapal ke pelabuhan cirebon untuk apa? Over.
+[2025-07-14 20:35:06] Kapten: kami datang ke Cirebon Untuk bongkar muatan over
+[2025-07-14 20:35:10] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-14 20:35:15] Kapten: correct over
+[2025-07-14 20:35:15] AI: Kami catat maksud bongkar muatan, correct?
+[2025-07-14 20:35:22] AI: Selanjutnya tolong informasinya kept, jenis muatan yang Anda bawa apa? Over.
+[2025-07-14 20:35:28] Kapten: muatan kapal berupa batubara over
+[2025-07-14 20:35:33] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-14 20:35:37] Kapten: correct over
+[2025-07-14 20:35:37] AI: Kami catat muatan berupa batubara, correct?
+[2025-07-14 20:35:43] AI: Berapa banyak muatan kapal Anda bawa, kept? Over.
+[2025-07-14 20:35:49] Kapten: berat muatan sekitar 100 ton
+[2025-07-14 20:35:53] AI: Kami catat berat muatan 100 ton, correct?
+[2025-07-14 20:35:58] Kapten: correct over
+[2025-07-14 20:35:58] AI: Kami catat berat muatan 100 ton, correct?
+[2025-07-14 20:36:04] AI: Boleh informasikan kept, untuk kedalaman draft depannya berapa meter? Over.
+[2025-07-14 20:36:11] Kapten: draft depan sekitar 5 meter over
+[2025-07-14 20:36:15] AI: Kami catat draft depan 5, correct?
+[2025-07-14 20:36:19] Kapten: correct over
+[2025-07-14 20:36:19] AI: Kami catat draft depan 5, correct?
+[2025-07-14 20:36:27] AI: Boleh informasikan juga kept, untuk kedalaman draft belakangnya berapa meter? Over.
+[2025-07-14 20:36:34] Kapten: bagian belakang memiliki draft sekitar 4 meter over
+[2025-07-14 20:36:38] AI: Kami catat draft belakang 4, correct?
+[2025-07-14 20:36:43] Kapten: correct over
+[2025-07-14 20:36:43] AI: Kami catat draft belakang 4, correct?
+[2025-07-14 20:36:57] AI: Mohon diinformasikan estimasi waktu tiba di pelabuhan cirebon jam berapa, Kept? Misalnya 'besok pagi' atau 'jam 9 malam'. Over.
+[2025-07-14 20:37:04] Kapten: estimasi waktu tiba 1 jam lagi
+[2025-07-14 20:37:14] AI: Kami catat estimasi tiba pada Tanggal 14 Juli 2025 pukul 21:37, correct?
+[2025-07-14 20:37:19] Kapten: correct over
+[2025-07-14 20:37:19] AI: Kami catat estimasi tiba pada Tanggal 14 Juli 2025 pukul 21:37, correct?
+[2025-07-14 20:37:24] AI: Tolong informasikan kepada kami nama lengkap kapten? Over.
+[2025-07-14 20:37:30] Kapten: nama Kapten Rizky resi Julian
+[2025-07-14 20:37:35] AI: Kami catat nama kapten rizky resi julian, correct?
+[2025-07-14 20:37:40] Kapten: correct gambar
+[2025-07-14 20:37:40] AI: Kami catat nama kapten rizky resi julian, correct?
+[2025-07-14 20:37:46] AI: Terakhir, berapa jumlah kru kapal Anda saat ini, kept? Over.
+[2025-07-14 20:37:52] Kapten: jumlah kru Kamis 10 orang
+[2025-07-14 20:37:56] AI: Kami catat jumlah kru 10, correct?
+[2025-07-14 20:38:00] Kapten: correct over
+[2025-07-14 20:38:00] AI: Kami catat jumlah kru 10, correct?
+[2025-07-14 20:38:04] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-14 20:38:10] Kapten: terdapat kebocoran di lambung kapal
+[2025-07-14 20:38:20] AI: Silakan hubungi otoritas terkait atau tim darurat kapal jika diperlukan. Jaga keselamatan diri dan awak kapal Anda.
+[2025-07-14 20:38:24] AI: Apakah ada yang bisa kami bantu lagi, kept?
+[2025-07-14 20:38:29] Kapten: cukup terima kasih
+[2025-07-14 20:38:31] AI: Sama-sama!
+[2025-07-14 20:39:00] AI: Baik, terima kasih atas informasi nya capt, untuk kapal WAN HAI 309 tercatat berjenis TANKER silahkan berlabuh ke zona C, tolong informasikan kembali kepada kami jika kapal sudah sandar kept, VTS Cirebon kembali standby channel 16, 12 over and out.
+[2025-07-31 05:50:07] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 05:50:07] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 05:50:07] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 05:50:07] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 05:50:27] AI: ABM INTAN, VTS Cirebon memanggil, over.
+[2025-07-31 05:50:27] AI: 
+[2025-07-31 05:50:42] AI: 
+[2025-07-31 05:50:54] AI: 
+[2025-07-31 05:51:06] AI: 
+[2025-07-31 06:49:53] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 06:49:53] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 06:49:53] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 06:49:53] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 06:50:04] AI: ABM INTAN, VTS Cirebon memanggil, over.
+[2025-07-31 06:50:04] AI: 
+[2025-07-31 06:52:42] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 06:52:42] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 06:52:42] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 06:52:42] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 06:54:24] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 06:54:24] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 06:54:24] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 06:54:24] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 06:55:55] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 06:55:55] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 06:55:55] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 06:55:55] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 06:56:09] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 06:56:09] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 06:56:09] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 06:56:09] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 06:56:18] AI: ABM INTAN, VTS Cirebon memanggil, over.
+[2025-07-31 06:56:18] AI: 
+[2025-07-31 06:56:30] AI: 
+[2025-07-31 06:56:43] AI: 
+[2025-07-31 06:56:58] AI: 
+[2025-07-31 06:57:10] AI: 
+[2025-07-31 06:57:21] AI: 
+[2025-07-31 07:36:04] AI: [INFO] Nama Petugas: M. RIFAI MARASABESSY
+[2025-07-31 07:36:04] AI: [INFO] Koordinat Kapal: -2.123214, 4.112324
+[2025-07-31 07:38:23] AI: [INFO] Nama Petugas: M. RIFAI MARASABESSY
+[2025-07-31 07:38:23] AI: [INFO] Koordinat Kapal: -2.123214, 4.112324
+[2025-07-31 21:05:09] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 21:05:09] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 21:05:09] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 21:05:09] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 21:05:09] AI: [INFO] Koordinat Kapal: -2.123214, 4.112324
+[2025-07-31 21:08:06] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 21:08:06] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 21:08:06] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 21:08:06] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 21:08:06] AI: [INFO] Koordinat Kapal: -2.123214, 4.112324
+[2025-07-31 21:09:26] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 21:09:26] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 21:09:26] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 21:09:26] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 21:09:26] AI: [INFO] Koordinat Kapal: -2.123214, 4.112324
+[2025-07-31 21:10:02] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 21:10:02] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 21:10:02] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 21:10:02] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 21:10:02] AI: [INFO] Koordinat Kapal: -2.123214, 4.112324
+[2025-07-31 21:10:36] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 21:10:36] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 21:10:36] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 21:10:36] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 21:10:36] AI: [INFO] Koordinat Kapal: -2.123214, 4.112324
+[2025-07-31 21:11:00] AI: [INFO] Nama Petugas Penanggung Jawab: M. RIFAI MARASABESSY
+[2025-07-31 21:11:00] AI: [INFO] MMSI valid. Nama Kapal: ABM INTAN
+[2025-07-31 21:11:00] AI: [INFO] MMSI valid. Zona Kapal: C
+[2025-07-31 21:11:00] AI: [INFO] MMSI valid. Jenis Kapal: TUG/TOW
+[2025-07-31 21:11:00] AI: [INFO] Koordinat Kapal: -2.123214, 4.112324
+[2025-07-31 21:11:08] AI: ABM INTAN, VTS Cirebon memanggil, over.
+[2025-07-31 21:11:08] AI: 
